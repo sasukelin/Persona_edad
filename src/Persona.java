@@ -14,6 +14,7 @@ public class Persona {
      * @param nombre
      * @param edad
      * @param direccion
+     * Complejidad temporal: O(1) Tiempo Constante
      */
     public Persona(String nombre, int edad, String direccion) {
         this.nombre = nombre;
